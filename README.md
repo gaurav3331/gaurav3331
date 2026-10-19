@@ -26,23 +26,25 @@ I'm passionate about combining **computer science, quantitative finance, and mac
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode" />
-</p>
+## 💻 Technical Skills
 
-**Libraries & Frameworks**
+- **Programming:** Python, SQL,C++
+- **Computer Science:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
+- **Machine Learning:** Scikit-learn, Random Forest, XGBoost, Regression, Classification
+- **Deep Learning:** Neural Networks, Backpropagation, LSTM
+- **Algorithms:** Sorting, Searching, Optimization Algorithms
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Tensorflow
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+## 📈 Financial Engineering & Quantitative Finance
 
-**Areas of Interest**
-
-`Quantitative Finance` · `Algorithmic Trading` · `Technical Analysis` · `Machine Learning` · `Backtesting` · `Risk Management`
+- **Mathematics:** Probability, Statistics, Stochastic Calculus
+- **Stochastic Processes:** Brownian Motion, Geometric Brownian Motion (GBM)
+- **Fixed Income:** Bond Pricing, Interest Rates
+- **Derivatives:** Options, Futures, Option Pricing Models
+- **Portfolio Management:** Modern Portfolio Theory, Portfolio Optimization, CAPM
+- **Quantitative Trading:** Algorithmic Trading, Backtesting, Technical Analysis
+- **Risk Management:** Volatility, Drawdown Analysis, Risk-Adjusted Returns
 
 ---
 
